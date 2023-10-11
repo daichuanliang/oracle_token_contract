@@ -1,1 +1,17 @@
-# oracle_token_contract
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.ts
+```
+
+```contracts
+ETHUSDT: 0xb8dD3C27C22e54476a82712041d94B3Cac951807
+```
